@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1516528079 source:c:\users\kasia\desktop\nauka\przemko\przem\main.cpp
+	<iostream>
+	"Contoller.h"
+
+1516528021 source:c:\users\kasia\desktop\nauka\przemko\przem\src\defrostprogram.cpp
+	"DefrostProgram.h"
+	"Program.h"
+	<iostream>
+
+1516528021 c:\users\kasia\desktop\nauka\przemko\przem\include\defrostprogram.h
+	"Program.h"
+
+1516528021 c:\users\kasia\desktop\nauka\przemko\przem\include\program.h
+
+1516528021 source:c:\users\kasia\desktop\nauka\przemko\przem\src\program.cpp
+	"Program.h"
+
+1516528021 source:c:\users\kasia\desktop\nauka\przemko\przem\src\cookprogram.cpp
+	"CookProgram.h"
+	<iostream>
+
+1516528021 c:\users\kasia\desktop\nauka\przemko\przem\include\cookprogram.h
+	"Program.h"
+
+1516526481 source:c:\users\kasia\desktop\nauka\przemko\przem\src\contoller.cpp
+	"Contoller.h"
+	"Program.h"
+	"CookProgram.h"
+	"DefrostProgram.h"
+	<stdexcept>
+
+1516525007 c:\users\kasia\desktop\nauka\przemko\przem\include\contoller.h
+	<vector>
+	"Program.h"
+
